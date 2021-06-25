@@ -1,10 +1,5 @@
-body {font-family: Roboto;color:blue}
-.text_a {color:red}
-.text_b {color:green}
-.text_c {color:yellow}
-.link_a {color:pink}
-.link_b {color:pink}
-.link_c {color:pink}
-.link_d {color:pink}
-.link_e {color:pink}
-.link_f {color:red}
+body {font-family: Roboto;color:pink;font-weight: bold}
+.header{color:red}
+.logo {color:red}
+.menu__link {color:red}
+.head-content__button {color:red}
